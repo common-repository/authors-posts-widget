@@ -3,7 +3,7 @@
 Plugin Name: Authors Posts Widget
 Plugin URI: http://androidbubble.com/blog/wordpress/widgets/authors-posts-widget
 Description: Authors posts widget with blogger style.
-Version: 1.4.0
+Version: 1.4.1
 Author: Fahad Mahmood 
 Author URI: https://www.androidbubbles.com
 Text Domain: authors-posts-widget

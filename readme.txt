@@ -1,9 +1,9 @@
 ﻿=== Authors Posts Widget ===
-Contributors: fahadmahmood
+Contributors: fahadmahmood, invoicepress
 Tags: authors posts, all posts widget, posts by authors, posts widget
 Requires at least: 3.0
-Tested up to: 6.5
-Stable tag: 1.4.0
+Tested up to: 6.6
+Stable tag: 1.4.1
 Requires PHP: 7.0
 License: GPL2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
